@@ -14,7 +14,7 @@ const App = () =>
   return (
     <div className="App">
       <ThemeProvider theme={theme}>
-        <TomatoButton>Tomato button</TomatoButton>
+        <TomatoButton>Tomato button Nuevo</TomatoButton>
         <Text>Hola!</Text>
       </ThemeProvider>
     </div>  
